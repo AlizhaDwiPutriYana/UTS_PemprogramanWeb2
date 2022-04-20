@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"Banten","Jumlah_Positif":"291435","Jumlah_Dirawat":"1963"Jumlah_3",Sembuh":"286545","Jumlah_Meninggal":"2927","Nama_Operator":"Alizha Dwi Putri Yana","NIM_Mahasiswa":"191011400684"}
